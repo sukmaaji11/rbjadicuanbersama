@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+ccxt==4.2.76
+pandas==2.1.4
+backtrader==1.9.78.123
+TA-Lib==0.4.28
+python-telegram-bot==21.0.1  # Optional for alerts
